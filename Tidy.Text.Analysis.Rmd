@@ -37,7 +37,7 @@ Tiday text format is defined as a table with one-token-per-row
 
 1.2: The unnest_tokens function
 
-[Emily Dickinson] https://en.wikipedia.org/wiki/Emily_Dickinson wrote some lovely text in her time
+[Emily Dickinson](https://en.wikipedia.org/wiki/Emily_Dickinson) wrote some lovely text in her time
 
 
 
