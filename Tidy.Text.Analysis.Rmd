@@ -24,3 +24,19 @@ Today we will talk about this data and what all we can do with it.
 - Text Analysis Application
 
 
+#1. Text Data Manipulation
+## Tidy text 
+
+Tiday text format is defined as a table with one-token-per-row
+
+3 ways text data is stored 
+
+- String: Text is stored as strings, i.e., character vectors, within R
+- Corpus: Contain raw strings annotated with additional metadata 
+- Document term matrix: Collection (i.e., a corpus) of documents with one row for each document and one column for each term
+
+
+
+
+
+
