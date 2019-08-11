@@ -29,11 +29,16 @@ Today we will talk about this data and what all we can do with it.
 
 Tiday text format is defined as a table with one-token-per-row
 
-3 ways text data is stored 
+1.1:  Three ways text data is stored 
 
 - String: Text is stored as strings, i.e., character vectors, within R
 - Corpus: Contain raw strings annotated with additional metadata 
 - Document term matrix: Collection (i.e., a corpus) of documents with one row for each document and one column for each term
+
+1.2: The unnest_tokens function
+
+[Emily Dickinson] https://en.wikipedia.org/wiki/Emily_Dickinson wrote some lovely text in her time
+
 
 
 
