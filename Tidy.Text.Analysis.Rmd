@@ -49,6 +49,29 @@ text <- c("Because I could not stop for Death -",
 text
 ```
 
+Converting this data into tidy text
+
+```{r tibble}
+library(dplyr)
+text_df <- tibble(line = 1:4, text = text)
+
+text_df
+
+```
+
+Convert this into one-token-per-document-per-row
+
+> A token is a meaningful unit of text, most often a word, that we are interested in using for further analysis, and tokenization is the process of splitting text into tokens.
+
+
+
+
+
+
+
+
+
+
 
 
 

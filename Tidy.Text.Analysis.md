@@ -41,5 +41,19 @@ Tiday text format is defined as a table with one-token-per-row
 
 1.2: The unnest\_tokens function
 
-[Emily Dickinson](https://en.wikipedia.org/wiki/Emily_Dickinson) wrote
-some lovely text in her time
+[Emily Dickinson](https://en.wikipedia.org/wiki/Emily_Dickinson), An
+American poiet, wrote some lovely text in her time
+
+``` r
+text <- c("Because I could not stop for Death -",
+          "He kindly stopped for me -",
+          "The Carriage held but just Ourselves -",
+          "and Immortality")
+
+text
+```
+
+    ## [1] "Because I could not stop for Death -"  
+    ## [2] "He kindly stopped for me -"            
+    ## [3] "The Carriage held but just Ourselves -"
+    ## [4] "and Immortality"
