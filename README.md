@@ -1,9 +1,9 @@
 # TextAnalyticsR
-This Tutorial will cover following topics in R# Outline
-#1) Text data manipulation
-#2) Sentiment Analysis
-#3) Term Frequency - Inverse Document Frequency
-#4) N-grams
-#5) Tidying Data
-#6) Topic Modeling
-#7) Text Analysis Application
+## This Tutorial will cover following topics in R# Outline
+- Text data manipulation
+- Sentiment Analysis
+- Term Frequency - Inverse Document Frequency
+- N-grams
+- Tidying Data
+- Topic Modeling
+- Text Analysis Application
