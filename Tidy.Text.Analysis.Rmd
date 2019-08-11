@@ -61,8 +61,12 @@ text_df
 
 Convert this into one-token-per-document-per-row
 
-> A token is a meaningful unit of text, most often a word, that we are interested in using for further analysis, and tokenization is the process of splitting text into tokens.
+```
+A token is a meaningful unit of text, most often a word, that we are interested in using for further analysis, and tokenization is the process of splitting text into tokens.
 
+```
+
+![Tidy flow Text](/Users/grax/TextAnalyticsR/tidyflow-ch-1.png)
 
 
 
